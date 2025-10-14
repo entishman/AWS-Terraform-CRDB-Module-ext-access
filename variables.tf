@@ -392,5 +392,5 @@ variable "tls_user_key" {
 variable "my_external_ip_address" {
   description = "Public IP address of a server outside the VPC that needs database access."
   type        = string
-  default     = "" # Set a reasonable default or keep it empty for required input
+  default     = "0.0.0.0" # Set a reasonable default or keep it empty for required input
 }
