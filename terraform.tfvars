@@ -3,8 +3,8 @@ my_ip_address = "163.116.141.21"
 my_external_ip_address = "44.250.60.240" # REPLACE with the actual external EC2's public IP
 
 aws_region_01          = "us-west-2"
-owner                  = "trs-v2---"
-project_name           = "trs-v2-my-project"
+owner                  = "trs-sr---"
+project_name           = "trs-sr-demo---"
 crdb_instance_key_name = "TRS-uswest2"
 vpc_cidr               = "192.168.7.0/24"
 
